@@ -1,5 +1,5 @@
 {
-"docs"      : ["posts"],        
+	"docs"      : ["README.md"],        
         "perpage"   : 5,
         "types"     : {
                 "\\.(md||markdown)$"   : "markdown", 
@@ -7,35 +7,8 @@
                 "\\.html?$"            : "html",
                 ".*"                   : "text"                
         },
-        "title"  : "Akira's Blog",
-        "comment"  : "on",
-        "domain-alias"  : ["blog.weizoo.com"],
-        "friends"  : [
-                {
-                        "name"  : "JerryQu的小站",
-                        "title"  : "屈屈的博客",
-                        "url"  : "http://imququ.com"                  
-                },
-                {
-                        "name"  : "奇舞团",
-                        "title"  : "奇舞团官方博客",
-                        "url"  : "http://www.75team.com"
-                },
-                {
-                        "name"  : "typeof.net",
-                        "title" : "typeof.net",
-                        "url"  :  "http://typeof.net/"
-                },
-                {
-                        "name"  : "never-online",
-                        "title" : "rank's technical notes",
-                        "url"        : "http://never-online.net/blog/"
-                },
-                {
-                        "name"  : "aoao",
-                        "title" : "样式之美 | 没落的角落",
-                        "url"   : "http://www.aoao.org.cn/"
-                }
-        ] 
+        "title"  : "Rey's Blog",
+        "comment"  : "on"
+       
 }
 
