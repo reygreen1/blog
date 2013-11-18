@@ -1,14 +1,15 @@
 {
-	"docs"      : ["README.md"],        
-        "perpage"   : 5,
-        "types"     : {
-                "\\.(md||markdown)$"   : "markdown", 
-                "\\.(js||css||json)$"  : "code",
-                "\\.html?$"            : "html",
-                ".*"                   : "text"                
-        },
-        "title"  : "Rey's Blog",
-        "comment"  : "on"
+	"docs"      : ["posts"],  
+	"template"  : "slate",      
+    "perpage"   : 5,
+    "types"     : {
+            "\\.(md||markdown)$"   : "markdown", 
+            "\\.(js||css||json)$"  : "code",
+            "\\.html?$"            : "html",
+            ".*"                   : "text"                
+    },
+    "title"  : "Rey's Blog",
+    "comment"  : "on"
        
 }
 
