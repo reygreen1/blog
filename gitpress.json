@@ -10,7 +10,7 @@
     },
     "title"  : "Rey's Blog",
     "description" : "郭瑞的blog",
-    "comment"  : {"type":"duoshuo", "short_name":"Rey"},
+    "comment"  : {"type":"duoshuo", "short_name":"reygreen1"},
     "friends"  : [
     			{
                         "name"  : "Akira's Blog",
