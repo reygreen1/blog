@@ -1,6 +1,6 @@
 {
 	"docs"      : ["posts"],  
-	"template"  : "slate",      
+	"template"  : "default",      
     "perpage"   : 5,
     "types"     : {
             "\\.(md||markdown)$"   : "markdown", 
@@ -9,7 +9,8 @@
             ".*"                   : "text"                
     },
     "title"  : "Rey's Blog",
-    "comment"  : "on"
+    "description" : "welcome",
+    "comment"  : {"type":"disqus", "short_name":"gitpress"}
        
 }
 
