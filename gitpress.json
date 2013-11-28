@@ -9,8 +9,35 @@
             ".*"                   : "text"                
     },
     "title"  : "Rey's Blog",
-    "description" : "welcome",
-    "comment"  : {"type":"disqus", "short_name":"gitpress"}
+    "description" : "郭瑞的blog",
+    "comment"  : {"type":"duoshuo", "short_name":"Rey"},
+    "friends"  : [
+    			{
+                        "name"  : "Akira's Blog",
+                        "title"  : "十年踪迹的博客",
+                        "url"  : "http://akira-cn.gitpress.org/"                  
+                },
+                {
+                        "name"  : "JerryQu的小站",
+                        "title"  : "屈屈的博客",
+                        "url"  : "http://imququ.com"                  
+                },
+                {
+                        "name" : "welefen",
+                        "title": "welefen",
+                        "url"  : "http://www.welefen.com/"
+                },
+                {
+                        "name"  : "奇舞团",
+                        "title"  : "奇舞团官方博客",
+                        "url"  : "http://www.75team.com"
+                },
+                {
+                        "name" : "奇舞周刊",
+                        "title" : "奇舞周刊",
+                        "url" : "http://www.75team.com/weekly/"
+                }
+                ]
        
 }
 
