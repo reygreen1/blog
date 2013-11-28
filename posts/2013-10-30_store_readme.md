@@ -8,6 +8,8 @@ store.js 优先选择 localStorage 来进行存储，在 IE6 和 IE7 下降级�
 
 store.js 使用 JSON 来序列化存储数据。
 
+<!--more-->
+
 引入store.js
 ---
 下载 [store.min.js] 或者 [store+json2.min.js] ，并通过script标签引入当前文件中即可使用。
