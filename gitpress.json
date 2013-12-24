@@ -10,6 +10,7 @@
     },
     "title"  : "Rey's Blog",
     "description" : "郭瑞的blog",
+    "docs" : {"git":"posts/git","javascript":"posts/javascript","css":"css"}
     "comment"  : {"type":"duoshuo", "short_name":"reygreen1"},
     "friends"  : [
     			{
