@@ -1,7 +1,6 @@
 {
 	"docs" : {"git":"posts/git","javascript":"posts/javascript","css":"posts/css"}, 
-	"template"  : "default",      
-    "perpage"   : 5,
+	"perpage"   : 5,
     "types"     : {
             "\\.(md||markdown)$"   : "markdown", 
             "\\.(js||css||json)$"  : "code",
