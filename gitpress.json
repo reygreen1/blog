@@ -1,6 +1,6 @@
 {
 	"docs" : {"git":"posts/git","javascript":"posts/javascript","css":"posts/css"}, 
-	"template"  : "slate",      
+	"template"  : "default",      
     "perpage"   : 5,
     "types"     : {
             "\\.(md||markdown)$"   : "markdown", 
@@ -11,7 +11,8 @@
     "title"  : "Rey's Blog",
     "description" : "郭瑞的blog",
     "comment"  : {"type":"duoshuo", "short_name":"reygreen1"},
-    "friends"  : [
+    "friends"  : 
+    		[
     			{
                         "name"  : "Akira's Blog",
                         "title"  : "十年踪迹的博客",
@@ -37,7 +38,7 @@
                         "title" : "奇舞周刊",
                         "url" : "http://www.75team.com/weekly/"
                 }
-                ]
+            ]
        
 }
 
